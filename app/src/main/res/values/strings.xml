@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Push Notification</string>
+    <string name="edt_email_text">Enter Email...</string>
+    <string name="edt_password_text">Password...</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="email_text">Email text</string>
+    <string name="password_text">Password</string>
+    <string name="btn_login">Login Button</string>
+    <string name="btn_sign_up">Sign Up Button</string>
+
+
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+
+    <string name="reg_login_text">Already have an Account</string>
+    <string name="reg_pass_text">Password...</string>
+    <string name="reg_confirm_pass_text">Confirm Password...</string>
+    <string name="login_logo_desc">Logo_Login_Page</string>
+    <string name="email_hint">Enter Your Email</string>
+    <string name="login_btn_text">Create Account</string>
+</resources>

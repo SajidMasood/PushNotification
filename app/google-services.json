@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "105123404010",
+    "firebase_url": "https://foodorderowner-57bd3.firebaseio.com",
+    "project_id": "foodorderowner-57bd3",
+    "storage_bucket": "foodorderowner-57bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105123404010:android:a57c9a5eb279e40c",
+        "android_client_info": {
+          "package_name": "com.sajidabdali.foodorderowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105123404010-4b01f14pvrjbrepg65qrllbj7chgn6gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sajidabdali.foodorderowner",
+            "certificate_hash": "a08e657f4a15ca52165e077da635244b7406c388"
+          }
+        },
+        {
+          "client_id": "105123404010-22vcrro02h4kko0325c654j7g2dm65v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmVLgQ_Q5B8B_ozCQZqzJ5GLDnThQEIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105123404010-22vcrro02h4kko0325c654j7g2dm65v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105123404010:android:e583423bfea0f86f",
+        "android_client_info": {
+          "package_name": "com.sajidabdali.foodorderownerclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105123404010-58cctsu5vh9g8de9iult28ugdoehmctf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sajidabdali.foodorderownerclient",
+            "certificate_hash": "a08e657f4a15ca52165e077da635244b7406c388"
+          }
+        },
+        {
+          "client_id": "105123404010-22vcrro02h4kko0325c654j7g2dm65v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmVLgQ_Q5B8B_ozCQZqzJ5GLDnThQEIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105123404010-22vcrro02h4kko0325c654j7g2dm65v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105123404010:android:92987d2dd51abbba",
+        "android_client_info": {
+          "package_name": "com.zensol.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105123404010-osqh64m0c9ctvrdk3idovknkle99uqnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zensol.pushnotification",
+            "certificate_hash": "a08e657f4a15ca52165e077da635244b7406c388"
+          }
+        },
+        {
+          "client_id": "105123404010-22vcrro02h4kko0325c654j7g2dm65v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmVLgQ_Q5B8B_ozCQZqzJ5GLDnThQEIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105123404010-22vcrro02h4kko0325c654j7g2dm65v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
